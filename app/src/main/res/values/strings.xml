@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecipeBook</string>
+    <string name="add_savory">ADD SAVORY</string>
+    <string name="add_sweet">ADD SWEET</string>
+</resources>
