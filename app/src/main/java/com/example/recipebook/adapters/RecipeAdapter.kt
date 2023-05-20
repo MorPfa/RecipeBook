@@ -65,7 +65,7 @@ class RecipesAdapter(
     override fun getItemCount() = listItems.size
 
     override fun onBindViewHolder(holder: BaseViewHolder, position: Int) =
-        holder.bindData(listItems[position])
+        holder.setValues(listItems[position])
 
 
 
